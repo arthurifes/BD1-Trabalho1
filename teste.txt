@@ -1,0 +1,3 @@
+Compreender a ferramenta git. Que não é a mesma coisa que github
+github é o sistema web que você gerenciar os repositórios remotos.
+No git se cria repositorios locais
